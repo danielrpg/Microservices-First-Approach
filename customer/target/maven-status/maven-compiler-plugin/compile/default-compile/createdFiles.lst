@@ -1,0 +1,9 @@
+com\daniel\customer\CustomerRepository.class
+com\daniel\customer\Customer.class
+com\daniel\customer\Customer$CustomerBuilder.class
+com\daniel\customer\CustomerApplication.class
+com\daniel\customer\CustomerConfig.class
+com\daniel\customer\FraudCheckResponse.class
+com\daniel\customer\CustomerController.class
+com\daniel\customer\CustomerRegistrationRequest.class
+com\daniel\customer\CustomerService.class
